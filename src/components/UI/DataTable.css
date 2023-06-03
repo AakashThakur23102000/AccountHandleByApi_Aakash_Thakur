@@ -1,0 +1,14 @@
+.main_table{
+    background-color: rgb(242, 188, 242);
+    border-color: palevioletred;
+    margin-top: 20px;
+    margin-left: 445px;
+    font-size: large;
+}
+
+.main_table button{
+    font-size: medium;
+    background-color: blueviolet;
+    border-radius: 5px;
+    border-color: rgb(178, 116, 235);
+}
