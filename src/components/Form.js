@@ -35,7 +35,7 @@ function Form(props) {
             <br></br>
             <br></br>
             <label>Enter your Password - </label>
-            <input type="password" placeholder='Enter your name' value={password} onChange={(e)=>{setPassword(e.target.value)}}></input>
+            <input type="password" placeholder='Enter your password' value={password} onChange={(e)=>{setPassword(e.target.value)}}></input>
             <br></br>
             <br></br>
             <button type='submit' onClick={(e)=>{buttonSubmitHandler(e)}}>Submit</button>
